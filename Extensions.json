@@ -1,0 +1,28 @@
+{
+  "Extensions": [
+    {
+      "extensionName": "ARM Outputs",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs' target='_blank'><b>ARM Outputs</b></a>",
+      "publisherId": "keesschollaart",
+      "extensionId": "arm-outputs",
+      "publisherName": "Kees Schollaart",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Team Project Health",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth' target='_blank'><b>Team Project Health</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "TeamProjectHealth",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "SonarCloud",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'><b>SonarCloud</b></a>",
+      "publisherId": "SonarSource",
+      "extensionId": "sonarcloud",
+      "publisherName": "SonarSource",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'>License Terms</a>"
+    }
+  ]
+}

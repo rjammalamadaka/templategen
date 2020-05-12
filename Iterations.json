@@ -1,0 +1,12 @@
+{
+  "children": [
+    {
+      "name": "Sprint 1",
+      "structureType": "iteration",
+      "hasChildren": false
+    }
+  ],
+  "name": "Template",
+  "structureType": "iteration",
+  "hasChildren": true
+}
