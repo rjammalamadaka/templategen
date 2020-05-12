@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/jammrav/Template/_git/Template"
+    },
+    "serviceEndpointId": "$Template-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}
